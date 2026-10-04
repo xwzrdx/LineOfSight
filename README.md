@@ -12,6 +12,10 @@ Discord: ``wzrd0001``
 * Third Person
 *  Sprint while reloading
 
+# To Do
+* Achievements
+* Stats
+
 
 # Screenshots
 <img width="1382" height="1073" alt="image" src="https://github.com/user-attachments/assets/2bc3f475-33b8-4999-ac9d-9ae7324e2eef" />
