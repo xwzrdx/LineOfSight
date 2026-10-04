@@ -1,5 +1,7 @@
 Server Emulator for Line of Sight (2019 Steam Build)
 
+Discord: ``wzrd0001``
+
 
 
 # Done
