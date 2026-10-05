@@ -17,7 +17,6 @@ Discord: ``wzrd0001``
 # Gameplay changes
 * Third Person support
 *  Sprint while reloading
-*  Freely throw/drop weapon
 *  Randomized sniper aim sway
 *  Hold breath to steady aim sway
 
