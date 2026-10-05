@@ -12,8 +12,14 @@ Discord: ``wzrd0001``
 * Create Room
 * Room List
 * Start Match
-* Third Person
+
+
+# Gameplay changes
+* Third Person support
 *  Sprint while reloading
+*  Freely throw/drop weapon
+*  Randomized sniper aim sway
+*  Hold breath to steady aim sway
 
 # To Do
 * Achievements
