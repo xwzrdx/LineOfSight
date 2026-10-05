@@ -9,6 +9,8 @@ Discord: ``wzrd0001``
 * Inventory
 * Shop
 * Weapon Tuning & Character Customization
+* Create Room
+* Room List
 * Third Person
 *  Sprint while reloading
 
