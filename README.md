@@ -18,6 +18,7 @@ Discord: ``wzrd0001``
 * Third Person support
 *  Sprint while reloading
 *  Sprint while bolt rechambering (sniper)
+*  Auto Sprint option
 *  Randomized sniper aim sway
 *  Hold breath to steady aim sway
 
