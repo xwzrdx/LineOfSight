@@ -12,6 +12,7 @@ Discord: ``wzrd0001``
 * Create Room
 * Room List
 * Start Match
+* Custom Content (Characters)
 
 
 # Gameplay changes
@@ -28,6 +29,8 @@ Discord: ``wzrd0001``
 * Achievements
 * Stats
 * Custom Modes
+* Custom Weapons
+* Custom Maps
 
 
 # Screenshots
