@@ -15,6 +15,7 @@ Discord: ``wzrd0001``
 
 
 # Gameplay changes
+* Dynamic Viewmodel Adaptation (Corner Slice & Weapon Pullback
 * Third Person support
 *  Sprint while reloading
 *  Sprint while bolt rechambering (sniper)
@@ -25,6 +26,7 @@ Discord: ``wzrd0001``
 # To Do
 * Achievements
 * Stats
+* Custom Modes
 
 
 # Screenshots
