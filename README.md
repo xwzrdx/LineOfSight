@@ -16,6 +16,7 @@ Discord: ``wzrd0001``
 
 # Gameplay changes
 * Dynamic Viewmodel Adaptation (Corner Slice & Weapon Pullback
+* HUD Sway
 * Third Person support
 *  Sprint while reloading
 *  Sprint while bolt rechambering (sniper)
