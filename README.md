@@ -12,11 +12,13 @@ Discord: ``wzrd0001``
 * Create Room
 * Room List
 * Start Match
-* Custom Content (Characters, Custom Weapon Paints)
+* Custom Content (Characters, Weapons, Weapon Paints)
 
 
 # Gameplay changes
 * Dynamic Viewmodel Adaptation (Corner Slice & Weapon Pullback
+* Viewmodel ADS FOV
+* ADS FOV
 * HUD Sway
 * Third Person support
 *  Sprint while reloading
