@@ -12,7 +12,7 @@ Discord: ``wzrd0001``
 * Create Room
 * Room List
 * Start Match
-* Custom Content (Characters)
+* Custom Content (Characters, Custom Weapon Paints)
 
 
 # Gameplay changes
